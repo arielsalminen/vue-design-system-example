@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <Heading>A Demo app using imported Vue Design System</Heading>
     <Index/>
   </div>
 </template>
@@ -10,3 +9,16 @@ export default {
   name: 'app'
 }
 </script>
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body,
+#app {
+  min-height: 100%;
+  height: 100%;
+}
+</style>
