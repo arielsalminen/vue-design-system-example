@@ -13,7 +13,3 @@
 5. Now you can run `npm run dev` to test that your design system build and its components work.
 
 6. If everything works you should probably move your system to a private GitHub repository and do the NPM install directly from that repo.
-
-## Things to keep in mind
-
-* Vue Design System can’t be currently imported to a project using [Vue 2.5.17+](https://github.com/vuejs/vue/releases/tag/v2.5.17-beta.0) due to some breaking changes they’ve introduced, so you need to use 2.5.16 or below for now. This will get hopefully fixed later on.
