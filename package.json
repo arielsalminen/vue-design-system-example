@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
-    "vue-design-system": "file:../vue-design-system"
+    "vue-design-system": "git+https://github.com/viljamis/vue-design-system"
   },
   "browserslist": [
     "> 1%",
